@@ -1,0 +1,15 @@
+C:\Users\i-kol\Desktop\IT\All Practic\Как не нужно писать код. Часть 3\Ex_063\bin\Debug\net6.0\Ex_063.exe
+C:\Users\i-kol\Desktop\IT\All Practic\Как не нужно писать код. Часть 3\Ex_063\bin\Debug\net6.0\Ex_063.deps.json
+C:\Users\i-kol\Desktop\IT\All Practic\Как не нужно писать код. Часть 3\Ex_063\bin\Debug\net6.0\Ex_063.runtimeconfig.json
+C:\Users\i-kol\Desktop\IT\All Practic\Как не нужно писать код. Часть 3\Ex_063\bin\Debug\net6.0\Ex_063.dll
+C:\Users\i-kol\Desktop\IT\All Practic\Как не нужно писать код. Часть 3\Ex_063\bin\Debug\net6.0\Ex_063.pdb
+C:\Users\i-kol\Desktop\IT\All Practic\Как не нужно писать код. Часть 3\Ex_063\obj\Debug\net6.0\Ex_063.csproj.AssemblyReference.cache
+C:\Users\i-kol\Desktop\IT\All Practic\Как не нужно писать код. Часть 3\Ex_063\obj\Debug\net6.0\Ex_063.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i-kol\Desktop\IT\All Practic\Как не нужно писать код. Часть 3\Ex_063\obj\Debug\net6.0\Ex_063.AssemblyInfoInputs.cache
+C:\Users\i-kol\Desktop\IT\All Practic\Как не нужно писать код. Часть 3\Ex_063\obj\Debug\net6.0\Ex_063.AssemblyInfo.cs
+C:\Users\i-kol\Desktop\IT\All Practic\Как не нужно писать код. Часть 3\Ex_063\obj\Debug\net6.0\Ex_063.csproj.CoreCompileInputs.cache
+C:\Users\i-kol\Desktop\IT\All Practic\Как не нужно писать код. Часть 3\Ex_063\obj\Debug\net6.0\Ex_063.dll
+C:\Users\i-kol\Desktop\IT\All Practic\Как не нужно писать код. Часть 3\Ex_063\obj\Debug\net6.0\refint\Ex_063.dll
+C:\Users\i-kol\Desktop\IT\All Practic\Как не нужно писать код. Часть 3\Ex_063\obj\Debug\net6.0\Ex_063.pdb
+C:\Users\i-kol\Desktop\IT\All Practic\Как не нужно писать код. Часть 3\Ex_063\obj\Debug\net6.0\Ex_063.genruntimeconfig.cache
+C:\Users\i-kol\Desktop\IT\All Practic\Как не нужно писать код. Часть 3\Ex_063\obj\Debug\net6.0\ref\Ex_063.dll
